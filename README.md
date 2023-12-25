@@ -1,2 +1,2 @@
-# Code for paper SaO2
-Optimal_Online_Locally_Private_Data_Analytics_with_Stronger_Shuffle_Amplification
+# Code for paper "Optimal Locally Private Data Stream Analytics"
+To appear in 2024 IEEE International Conference on Computer Communications (INFOCOM).
